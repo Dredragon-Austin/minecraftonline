@@ -1,0 +1,5 @@
+{
+  "latestTag": "v0.1.81",
+  "changelog": "\n\n## [vv0.1.81](releases/tag/vv0.1.81) - 2025-04-10\n<!-- bump-type:patch -->\n### New Features\n\n- NEW PHYSICS ENGINE - GRIM PASSES >1.19.4 ([#327](/issues/327))\n### Bug Fixes\n\n- finally fix plants rendering in underwater and near water! [`bf79086`](/commit/bf790861d96f90e409f3da889fcd1c60274f99bf)",
+  "previousTag": "v0.1.80"
+}
